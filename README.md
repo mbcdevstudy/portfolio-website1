@@ -1,7 +1,17 @@
 # 출처
-https://www.youtube.com/watch?v=VSlzAvwPODo&t=147s (20:51)
+
+https://www.youtube.com/watch?v=VSlzAvwPODo&t=147s (45:47)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+# VSCode
+
+테마: One Dark Modern
+
+폰트: Cascadia code
+
+공통 필수 확장 프로그램: Office Viewer - https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office
+(MD 파일에 대한 읽기 &* 쓰기/Word 파일 읽기)
 
 ## Getting Started
 
