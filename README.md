@@ -12,8 +12,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 # VSCode
 공통 필수 확장 프로그램: Office Viewer - https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office
 (MD 파일에 대한 읽기 &* 쓰기/Word 파일 읽기)
+
 위 확장 프로그램을 설치하면 다음 테마를 선택할 수 있음.
+
 테마: One Dark Modern
+
 폰트: Cascadia code (NF)
 
 
