@@ -2,8 +2,9 @@
 
 # 출처
 
-https://www.youtube.com/watch?v=VSlzAvwPODo&t=147s (1:01:07)
+https://www.youtube.com/watch?v=VSlzAvwPODo&t=147s (1:17:51)
 ============================================================
+
 
 # 출처 유투브 영상
 
@@ -20,15 +21,14 @@ https://www.youtube.com/watch?v=VSlzAvwPODo&t=147s
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 # VSCode
+
 공통 필수 확장 프로그램: Office Viewer - https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-office
-<br>(MD 파일에 대한 읽기 &* 쓰기/Word 파일 읽기)
+`<br>`(MD 파일에 대한 읽기 &* 쓰기/Word 파일 읽기)
 
 위 확장 프로그램을 설치하면 다음 테마를 선택할 수 있음.
-<br>테마: One Dark Modern
+`<br>`테마: One Dark Modern
 
 폰트: Cascadia code (NF)
-
-
 
 ## Getting Started
 
