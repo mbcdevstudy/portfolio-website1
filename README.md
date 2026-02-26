@@ -1,11 +1,21 @@
 <<<<<<< HEAD
+
 # 출처
 
-https://www.youtube.com/watch?v=VSlzAvwPODo&t=147s (45:47)
-=======
+https://www.youtube.com/watch?v=VSlzAvwPODo&t=147s (1:01:07)
+============================================================
+
 # 출처 유투브 영상
-https://www.youtube.com/watch?v=VSlzAvwPODo&t=147s (20:51)
+
+https://www.youtube.com/watch?v=VSlzAvwPODo&t=147s
+
 >>>>>>> 6dea768c86721bf8a380d9fb7b809717badc980d
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
