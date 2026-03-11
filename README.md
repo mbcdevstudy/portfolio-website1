@@ -2,7 +2,7 @@
 
 # 출처
 
-# [https://www.youtube.com/watch?v=VSlzAvwPODo&amp;t=147s](https://www.youtube.com/watch?v=VSlzAvwPODo&t=147s) (1:39:24)
+# [https://www.youtube.com/watch?v=VSlzAvwPODo&amp;t=147s](https://www.youtube.com/watch?v=VSlzAvwPODo&t=147s) (1:47:21)
 
 ## 실행: npm run dev
 
